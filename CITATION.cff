@@ -1,0 +1,32 @@
+
+---
+
+### CITATION.cff sugerido
+
+```yaml
+cff-version: 1.2.0
+title: "SVIS Stochastic Model R Code"
+version: 1.0.0
+doi: 10.3390/math8071136
+date-released: 2025-12-26
+message: "If you use this software, please cite the associated publication."
+authors:
+  - family-names: "Gamboa"
+    given-names: "M."
+  - family-names: "Lopez-Herrero"
+    given-names: "M. J."
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Gamboa"
+      given-names: "M."
+    - family-names: "Lopez-Herrero"
+      given-names: "M. J."
+  title: "The Effect of Setting a Warning Vaccination Level on a Stochastic SIVS Model with Imperfect Vaccine"
+  journal: "Mathematics"
+  year: 2020
+  volume: 8
+  issue: 7
+  pages: 1136
+  doi: 10.3390/math8071136
+
