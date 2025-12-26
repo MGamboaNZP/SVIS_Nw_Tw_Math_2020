@@ -3,7 +3,7 @@
 
 ### CITATION.cff sugerido
 
-```yaml
+
 cff-version: 1.2.0
 title: "SVIS Stochastic Model R Code"
 version: 1.0.0
