@@ -5,6 +5,7 @@ This repository contains R scripts associated with the publication:
 > **Gamboa, M., & Lopez-Herrero, M. J. (2020).**  
 > The Effect of Setting a Warning Vaccination Level on a Stochastic SIVS Model with Imperfect Vaccine.  
 > *Mathematics*, 8(7), 1136.
+> https://doi.org/10.3390/math8071136
 >
 > --
 > **Software DOI (Zenodo):** https://doi.org/10.5281/zenodo.18060648
