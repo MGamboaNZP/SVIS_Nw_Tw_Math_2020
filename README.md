@@ -4,15 +4,17 @@ This repository contains R scripts associated with the publication:
 
 > **Gamboa, M., & Lopez-Herrero, M. J. (2020).**  
 > The Effect of Setting a Warning Vaccination Level on a Stochastic SIVS Model with Imperfect Vaccine.  
-> *Mathematics*, 8(7), 1136.  
-> https://doi.org/10.3390/math8071136
+> *Mathematics*, 8(7), 1136.
+>
+> --
+> **Software DOI (Zenodo):** https://doi.org/10.5281/zenodo.18060648
 
 ## Repository Structure
 
 - `R/compute_Nw_moments.R` : Computes the moments of the variable Nw.
 - `R/compute_Nw_distribution.R` : Computes the probability mass function of Nw.
 - `R/compute_Tw_moments.R` : Computes the moments of the time to reach the warning level (Tw).
-
+--
 
 ## Example Usage
 
