@@ -8,7 +8,7 @@ This repository contains R scripts associated with the publication:
 > https://doi.org/10.3390/math8071136
 >
 > --
-> **Software DOI (Zenodo):** https://doi.org/10.5281/zenodo.18060648
+> **Software DOI (Zenodo):** https://doi.org/10.5281/zenodo.18062040
 
 ## Repository Structure
 
